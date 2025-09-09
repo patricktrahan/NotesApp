@@ -1,8 +1,8 @@
-<h1>NotesApp</h1>h1>
+<h1>NotesApp</h1>
 
-<p>A simple and intuitive note-taking application built with React. Designed to help users create, and delete their notes efficiently.</p>p>
+<p>A simple and intuitive note-taking application built with React. Designed to help users create, and delete their notes efficiently.</p>
 
-<h2>Features</h2>h2>
+<h2>Features</h2>
   <ul>
     <li>Create Notes: Easily add new notes with titles and content.</li>
     <li>Delete Notes: Remove notes that are no longer needed.</li>
