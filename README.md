@@ -25,4 +25,4 @@
 
 
 <h2>Screenshot</h2>
-<img src-"https://github.com/patricktrahan/NotesApp/blob/main/media/NotesAppScreenshot001.jpg"/>
+<img src-"https://github.com/patricktrahan/NotesApp/blob/main/media/NotesAppScreenshot001.jpg">
